@@ -1,0 +1,13 @@
+v0.1
+# This is the very beginning of the pybounce. only support 2 players mode. 
+
+v0.2
+# adding a COM
+# bouncing with diff fixing on the angle
+
+v0.3
+# adding basic log
+# fix bug (sometime program crash), currently by adding log
+* add 'pause' function
+* set 2 difficulties: easy/hard, when vs easy com, it's yellow; when hard, it's red
+* game speed
